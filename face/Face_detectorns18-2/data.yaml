@@ -1,0 +1,13 @@
+names:
+- my_face
+- nsf
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: face_detectorns18
+  url: https://universe.roboflow.com/project-wgjij/face_detectorns18/dataset/2
+  version: 2
+  workspace: project-wgjij
+test: ../test/images
+train: ../train/images
+val: ../valid/images
